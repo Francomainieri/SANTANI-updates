@@ -1,173 +1,253 @@
 {
   "version": "1.3.2-PRUEBAS",
-  "published_at": "2026-08-30T20:26:58Z",
+  "published_at": "2026-08-31T01:09:28Z",
   "sha256": "9ac940e5df13d59015ca230923b5f58fe5027292241845c27b2b4b07f179da76",
   "size": 34243623,
   "parts": [
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-000.bin",
-      "sha256": "23c7006406e3c454026c52fc45f3b9e4747cdc6635ca3594a2d2b05439602691",
-      "size": 1048576
+      "sha256": "52ee34aef9043dd2e2071802859832a28c578605d386b9028b2511cc1bebbe68",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-001.bin",
-      "sha256": "85b3f036824033d7b4e04e8b4c27e198d389ff6804b38edf3c9ffb43ac3f61a1",
-      "size": 1048576
+      "sha256": "9040ff904f42a497d01ee910d44dc615e083d875d5e7c4ce94cd1385aedfee71",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-002.bin",
-      "sha256": "8df71264fb3c46ba54ab148df30e85114f1401b9c7e4921f94324ae567cb067a",
-      "size": 1048576
+      "sha256": "8f0b145efc0898a9fa97a9a4312e81b93b6e82c1f13c9fe74ccead019738c9e2",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-003.bin",
-      "sha256": "d15e6625f116bdd2512c99f3943b0d7327c7d5b9121a9de1d7fd504d988c5809",
-      "size": 1048576
+      "sha256": "bc6c55a5fd9450b3c194d6c53c9574db2a00837b0b0d3f6e60accf7c897b7a44",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-004.bin",
-      "sha256": "1c01a0dd631b126268a15198d5a2105638ae89819d04699db6d8f6edc69ce285",
-      "size": 1048576
+      "sha256": "372392997abae201cc39da52c25102ee900df930f9c4b983b36ffe7c06864fee",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-005.bin",
-      "sha256": "540a74d57299791ead62ff0fa8ce660bf4ab88ed28c94036f0b415df47e44f1c",
-      "size": 1048576
+      "sha256": "023ece4cb42acf1cee69f6300e00a9d563a6b35592d6e4a1ff5b994592ab1389",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-006.bin",
-      "sha256": "5c717c0047e970747fc0eba20ee88f699704584cdff80a79bc3f867bd001baaa",
-      "size": 1048576
+      "sha256": "eb07dd788d1f1d0ac1228302614814fd596c6b171f77d014f5f07030fa4c07a3",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-007.bin",
-      "sha256": "fa1e417dfa205eac4cad0e5ca92915a08a7f1f50dce8607fd344cb6caed02157",
-      "size": 1048576
+      "sha256": "419380a2dbf6488fc9b86f3ffc29d54a2fe9b6dceaf412e7ab7fd137816192b6",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-008.bin",
-      "sha256": "85e96adb6d31bd06dbcd993f93772f877d291fcf5304bb26788212facae240be",
-      "size": 1048576
+      "sha256": "23be55428192859519d238de335d34160041e371612d30c07db59e4b35ab3a57",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-009.bin",
-      "sha256": "3f1795850e9e51e1b212555113a5c9ba4e8ddd5d37429926e0428d5d24f24d3b",
-      "size": 1048576
+      "sha256": "fd5942eb85b61f3c1766d06694a3aedf1d78185bba2ac783a214551fbc5fd204",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-010.bin",
-      "sha256": "dcd12d5b63c7c16db722f1989f236468b7c646cb7825b0e9e78372ccbeda88f3",
-      "size": 1048576
+      "sha256": "ee685ab8e44997ddeed2fa2c5756b5f2c85fa98671c7fffd3cb0a12cf8294d66",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-011.bin",
-      "sha256": "63a39963200434604dd3616f38da0d3496878a15b62d15ab6716d01aa36837dc",
-      "size": 1048576
+      "sha256": "4d496ff19cfc8bb3cf62afa4efbcc0bfad0bf39246b0a582da0c44f5914de9ae",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-012.bin",
-      "sha256": "483852a575c0ba38563ed260769a37e81cd4c26b00ec333670429d38d5961270",
-      "size": 1048576
+      "sha256": "565261cbf47ccb0476f40bbe90cb9b8501fe331ca09c390266860e06120b8a74",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-013.bin",
-      "sha256": "0e8700b090e18a9472c04f884b45ab2fd725b45188cafc817a1a596a44ddda19",
-      "size": 1048576
+      "sha256": "cab37de6b3f879f5a3bd3566010bee18a0748a9338a78e3fb4fc21891842d56e",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-014.bin",
-      "sha256": "7f168463f1134183ec61ee15777b395cc5389a109c3e1bc6e9a7cded7703abf0",
-      "size": 1048576
+      "sha256": "d00a3cab615199f612acbc515c9209b1afabece50bd0d90f1d907f2a87b5358d",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-015.bin",
-      "sha256": "00fa20b823c78c17a30b09992ef4ce532e0fe9ed623b8f17c455434d1d5b7b9e",
-      "size": 1048576
+      "sha256": "78c765844d811db6d00bff32f07fe9722a484f19a31c4eba02ae9b874cd30d04",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-016.bin",
-      "sha256": "4bda2e9016bc40ee508206c47820f664b6a3fe5da931d4a55298e992e18d2b64",
-      "size": 1048576
+      "sha256": "650d40bab8b36f3444bacd5a06d023d447814970d12a402eda6e9d89f12d3f56",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-017.bin",
-      "sha256": "ff35390ccc768256d81bd1ff4f0260bfd63582fec5e13f39f42b114303d8923d",
-      "size": 1048576
+      "sha256": "8be4856404a0965bc0de941aec2a3d47270854478a25ce27a5d2b650ae2678ee",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-018.bin",
-      "sha256": "c6207cfcb25ed9e1d4f8031c72e471b6977d2369825540fce7d1d470a3f22a4c",
-      "size": 1048576
+      "sha256": "eaa357793eecec809dde50b152c1478b32b85970ecae0bab49d8fe78da5d98d8",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-019.bin",
-      "sha256": "f8ea11f26f61745610f25cccee83277d250a6e026b797616d730ebadffbf5e0f",
-      "size": 1048576
+      "sha256": "b2465bf3acf28bd16a5cf323d9c3184149a2d8629bb02076e2b5b12b39befa24",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-020.bin",
-      "sha256": "f16e458ab692d474f951aa4c023da6ebd39f53dbcf7afc33081921d9aace36bb",
-      "size": 1048576
+      "sha256": "0241e0a2ab549ab91d871f77b3f4e98ce4a62d2e22a447e68ac6cb8f55a89648",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-021.bin",
-      "sha256": "299e018c7a0464b312a55d4ede91c84924dfc395e33939ebe0f53276d1de6099",
-      "size": 1048576
+      "sha256": "cdf9c1e9952f4a53ef7cb4756f5609bbb35ee898d6c1b569cedac862852e7ded",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-022.bin",
-      "sha256": "d76dce59bc03ced48d80e0ae6b3b56e00f575d377edeea4eba16968b5bf5a200",
-      "size": 1048576
+      "sha256": "1ebc0778fa6ee3531227d021fcdae46f5c13b3ba7f8b18cfbd08b25218880e9d",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-023.bin",
-      "sha256": "ed5f4e4d20538c1bca39a6e54145074763ff1e9f0a297e07c2ad4c84c76ffeaa",
-      "size": 1048576
+      "sha256": "f44981810423780dae1e0f97225e4be64aec6c400b82ea93982e1cd24383265f",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-024.bin",
-      "sha256": "3843ba7fc2810799a9962a504f8dd9a3e1666fdd942e3e8f5f80230dadff10c1",
-      "size": 1048576
+      "sha256": "0cd9684fd4253374f13cb190d352febd14d3cf0162c0ea573c618f957682fea9",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-025.bin",
-      "sha256": "3f0fe51b52b1ee82b5d60ef426be7baf08a3fce5e2b16058b177363265131b63",
-      "size": 1048576
+      "sha256": "662b4a3882a46f96d25329c70641652830a4cca452419a2837155e879837f1d0",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-026.bin",
-      "sha256": "a7d11fcb19e24cc40ee3272d3d5860b0e5ef5daee58bedde373de2e3a442fa62",
-      "size": 1048576
+      "sha256": "28622a922d72fc40910a14efd757bdf4d39cca034842b4ebdf1e3db18f455150",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-027.bin",
-      "sha256": "3359b7cbafbf0f235a185feafdf9653e2ad46c7034a0b9926dd378108d091bfe",
-      "size": 1048576
+      "sha256": "69609fa97274bd116cbffe929e8103ba475758e90c41eef548517caaa73691b3",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-028.bin",
-      "sha256": "de574f11036951a99ac32a4530cf54299f42515eac23b9c9b878a327db764d46",
-      "size": 1048576
+      "sha256": "13ecc9f1b4f2aace4399617ef80c8abd84451ff5b4154352f47ee931344cb0b8",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-029.bin",
-      "sha256": "f7a4344ce9fa080fe4450c0463a26ad90a4c2795ef36e498dc60a6cd6608923a",
-      "size": 1048576
+      "sha256": "009cff6f2ba2b9e0415329ce2f1dc38a9876e080c5f08bf20b3670e1ff83f48e",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-030.bin",
-      "sha256": "d09952338ba645199c7698191ebfa7a06a7bb2cea723d2e5d2d6f78f0350a0a8",
-      "size": 1048576
+      "sha256": "f866ecf553a6404fe0aa4500c0b4a294372a0c6ffdb1b28e41559b1e0afe4e8f",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-031.bin",
-      "sha256": "c20c01a4e3f02acf2dec67fcf6dfe1648c4df287ced3f71cffff975523afd35b",
-      "size": 1048576
+      "sha256": "908f9fa233098d7c7e0d3c751ad839aac3d09e031850140bfe815bc4304d02a0",
+      "size": 700000
     },
     {
       "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-032.bin",
-      "sha256": "930f9a5918460da2a14f289451257bf7dfef794ace6d6d5fff1369d86b564174",
-      "size": 689191
+      "sha256": "b9fa06627ff6c277f139c82fff30e2581db796527852e5501ea2043680470104",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-033.bin",
+      "sha256": "2beb1778f5b4eadb1d61eeae266c7ddc78f1a8d259d3e210215e98ed259bc2b8",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-034.bin",
+      "sha256": "4df05b824f124376336b234a50c0ca89bfd745091dc14e6dba85bba421571def",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-035.bin",
+      "sha256": "4da056d68b67f152a95779a4127cf63e637a98e4caec22324dbd79a35a2d9739",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-036.bin",
+      "sha256": "ffe27f2bee6b3d41051400625d21aaeacbd38c25f95d42dce98610d89627db1f",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-037.bin",
+      "sha256": "fa14ca5585d832b5be433b5c2f26e10288ba0ec8442521a22aaee51b8b03d892",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-038.bin",
+      "sha256": "92769b98e2c0d378b9da41d7704e05423a69763ca6c8bd58ba62bc048ce340de",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-039.bin",
+      "sha256": "540fed65a99f740a3d53b994e086e867ec380d2b62abc864c68ed61f5d9df0dd",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-040.bin",
+      "sha256": "d5ceffdfcacf0c865e77724dac386e7dbd00e34bebb7d2de5c42713a2b126dbc",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-041.bin",
+      "sha256": "20521f3d1670097ee34a4a5636020766a90af301540640b3b41d5d3d0fac2d4b",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-042.bin",
+      "sha256": "6a4335e0598808056a36a7088173991a23140a421b7b331601cac676104039b4",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-043.bin",
+      "sha256": "e77172577e50efebf176179d3a88033b48f78a0803e5428eda47229163eafc77",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-044.bin",
+      "sha256": "96a9b6a0d7ae8c7f86091298e05ef26562c137cb971fd7996cea4f8d69d0da26",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-045.bin",
+      "sha256": "0782324b1ea06c3d1691f8176ee6cd3ca2420ac11ff6abed2475aa129ee749d3",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-046.bin",
+      "sha256": "5a59ebcb4766d3c8d6a30543e94d3cf0c054eb98b755d07791feb335ac7c6a59",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-047.bin",
+      "sha256": "bcf3e8d51c99db098821f5243f5841842ae12fc63dd511629b6930e0cf791fd9",
+      "size": 700000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Francomainieri/SANTANI-updates/main/files/1.3.2/part-048.bin",
+      "sha256": "b4f4727d913d11f2727f72e6685481ab52afe4a5331b7d016b07c4730cb578e1",
+      "size": 643623
     }
   ]
 }
